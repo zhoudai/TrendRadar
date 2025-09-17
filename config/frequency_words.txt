@@ -1,3 +1,6 @@
+人工智能
+AI
+
 谷歌
 google
 gemini
@@ -14,6 +17,8 @@ iphone
 ipad
 mac
 ios
+苹果
+!水果
 
 ai
 !gai

@@ -1,30 +1,207 @@
-人工智能
+# =======================================================
+# TrendRadar 关键词配置 (Vibe Coding, AI, 互联网科技 & 社区热点)
+# =======================================================
+
+# === 核心领域关键词 (Core Domains) ===
+
+# 人工智能 (AI/Artificial Intelligence)
 AI
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-苹果
-!水果
-
-ai
-!gai
 人工智能
+GPT
+LLM
+大语言模型
+AIGC
+生成式AI
+机器学习
+Machine Learning
+深度学习
+Deep Learning
+神经网络
+Neural Network
+RAG
+Transformer
+Sora
+Claude
+Gemini
+OpenAI
+Mistral
+Hugging Face
+HuggingFace
+MoE
+Agents
+智能体
+Function Calling
+微调
+Fine-tuning
+模型
+Model
+大模型
 
-自动驾驶
+# 编程与效率 (Coding & Productivity)
+Vibe Coding
+氛围编程
+编程
+Coding
+Development
+开发
+效率工具
+DevOps
+GitOps
+自动化
+Automation
+低代码
+Low-code
+无代码
+No-code
+Copilot
+GitHub
+VS Code
+IDE
+全栈
+Full-stack
 
-机器人
+# 互联网科技与趋势 (Internet Tech & Trends)
+互联网
+Internet
+科技
+Technology
+Web3
+Web5
+区块链
+Blockchain
+Metaverse
+元宇宙
+云计算
+Cloud Computing
+AWS
+Azure
+Google Cloud
+Serverless
+无服务器
+数据中心
+Data Center
+边缘计算
+Edge Computing
+物联网
+IoT
+5G
+6G
 
+# === 热门概念与社区热点增补 (Hot Concepts & Community Trends) ===
+
+# 芯片/硬件
+芯片
+Chip
+半导体
+Semiconductor
+GPU
+CPU
+NPU
+Arm
+RISC-V
+
+# 软件工程/架构/工具
+微服务
+Microservices
+云原生
+Cloud Native
+K8s
+Kubernetes
+Docker
+容器
+Container
+架构
+Architecture
+性能优化
+Performance
+Rust
+Go
+Golang
+TypeScript
+Node.js
+React
+Vue
+Svelte
+Next.js
+Spring Boot
+Terraform
+Ansible
+Tailscale
+WireGuard
+eBPF
+SRE
+可观测性
+Observability
+Tracing
+WebAssembly
+Wasm
+
+# 行业/市场/数据
+融资
+IPO
+上市
+Startup
+初创公司
+科技股
+Tech Stock
+隐私保护
+Data Privacy
+可信
+Trustworthy
+Data Mesh
+数据湖
+Data Lake
+
+# 威胁与攻击类型
+网络安全
+Cybersecurity
+信息安全
+漏洞
+Vulnerability
+CVE
+0Day
+零日漏洞
+攻击
+Attack
+Ransomware
+勒索软件
+钓鱼
+Phishing
+DDoS
+数据泄露
+Data Breach
+供应链攻击
+Supply Chain Attack
+威胁情报
+Threat Intelligence
+
+# 安全技术与防御
+防火墙
+Firewall
+WAF
+SIEM
+SOC
+零信任
+Zero Trust
+身份认证
+Authentication
+MFA
+多因素认证
+入侵检测
+IDS
+入侵防御
+IPS
+加密
+Encryption
+VPN
+安全审计
+Security Audit
+
+# 法规与合规
+GDPR
+合规
+Compliance
+隐私
+Privacy
+数据保护
+Data Protection
